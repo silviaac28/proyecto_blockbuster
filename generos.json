@@ -1,0 +1,14 @@
+{
+  "G01": {
+    "id": "G01",
+    "nombre": "Accion"
+  },
+  "G03": {
+    "id": "G03",
+    "nombre": "Cienciaficcion"
+  },
+  "G04": {
+    "id": "G04",
+    "nombre": "Terror"
+  }
+}

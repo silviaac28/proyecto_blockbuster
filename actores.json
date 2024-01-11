@@ -1,0 +1,18 @@
+{
+  "A01": {
+    "id": "A01",
+    "nombre": "Sofia Vergara"
+  },
+  "A02": {
+    "id": "A02",
+    "nombre": "Antonio Banderas"
+  },
+  "A03": {
+    "id": "A03",
+    "nombre": "Vin Diesel"
+  },
+  "A04": {
+    "id": "A04",
+    "nombre": "Silvester Stallone"
+  }
+}

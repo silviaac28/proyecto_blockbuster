@@ -1,0 +1,56 @@
+{
+  "P01": {
+    "id": "P01",
+    "nombre": "interstellar",
+    "duracion": "2horas",
+    "sinopsis": "xxx",
+    "genero": "G02",
+    "formato": "F02",
+    "actor": "A03"
+  },
+  "P02": {
+    "id": "P02",
+    "nombre": "capitan america",
+    "duracion": "4horas",
+    "sinopsis": "heroe",
+    "genero": "G01",
+    "formato": "F01",
+    "actor": "A01"
+  },
+  "P03": {
+    "id": "P03",
+    "nombre": "rapido y furioso",
+    "duracion": "3",
+    "sinopsis": "carreras etc",
+    "genero": "G01",
+    "formato": "F02",
+    "actor": "A03"
+  },
+  "P04": {
+    "id": "P04",
+    "nombre": "Rocky",
+    "duracion": "3horas",
+    "sinopsis": "Luchador etc",
+    "genero": "G01",
+    "formato": "F02",
+    "actor": "A04"
+  },
+  "P05": {
+    "id": "P05",
+    "nombre": "Rocky 2",
+    "duracion": "3horas",
+    "sinopsis": "Luchador etc 2",
+    "genero": "G01",
+    "formato": "F01",
+    "actor": "A04"
+  },
+  "P07": {
+    "id": "P07",
+    "nombre": "Megan",
+    "duracion": "3horas",
+    "sinopsis": "mu\u00f1eca inteligencia artif",
+    "genero": "G04",
+    "formato": "F01",
+    "actor": "A01"
+  }
+}
